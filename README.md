@@ -2,4 +2,4 @@
 
 ## high-level diagram
 
-<img width="557" alt="Screenshot 2021-08-14 at 3 44 23 PM" src="https://user-images.githubusercontent.com/28563293/129442785-30816ac4-ee4d-4fde-a5e6-ffc1550a66eb.png">
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/e01bb4bb-685b-4f81-a5f0-604c0007f8bc" id="7i0bbADjXrga"></iframe></div>
